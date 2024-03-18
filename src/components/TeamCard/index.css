@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.back {
+  background-color: #475569;
+  height: 100%;
+  width: 40vw;
+  display: flex;
+}
